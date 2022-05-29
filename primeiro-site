@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title> Francisco Wesley Araujo Chaves</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <img src="C:\Users\fwesl\OneDrive\Área de Trabalho\HTML\pic.jpg" alt="Foto de Francisco" class="photo"
+            width="100px" height="100px">
+        <h1 id="title"> Francisco Wesley Araujo Chaves</h1>
+    </header>
+    <section>
+        <header>
+            <h2 class="subtitle">Posts</h2>
+        </header class="post">
+        <article>
+            <header>
+                <h3 class="post_title">Post #1</h3>
+                <img src="C:\Users\fwesl\OneDrive\Área de Trabalho\HTML\html.jpg"
+                    alt="Editor de texto contendo código HTML" class="post_image" width="720px" height="430">
+            </header>
+            <p class="post_content"> Desenvolvedor FullStack em formação pelo BootCamp ministrado pela Digital Inovation
+                One em parceria com
+                a TQI.
+                Conheça um pouco do meu perfil do <a href="https://www.linkedin.com/in/wesley-chaves/"
+                    target="_blank">Linkedin</a>.
+            </p>
+        </article>
+    </section>
+    <footer>
+        <ul class="contact_list">
+            <li>
+                <a href="maito:fwesleyac@gmail.com" target="_blank">fwesleyac@gmail.com</a>
+            </li>
+            <li>
+                <a href="https://www.linkedin.com/in/wesley-chaves/" target="_blank">Linkedin</a>
+            </li>
+            <li>
+                <a href="https://github.com/FwesleyAC" target="_blank">GitHub</a>
+            </li>
+        </ul>
+    </footer>
+</body>
+
+</html>
